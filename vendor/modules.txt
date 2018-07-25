@@ -1,0 +1,19 @@
+# github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0
+github.com/codegangsta/inject
+# github.com/codeskyblue/go-sh v0.0.0-20171228145154-cf804ac79dff
+github.com/codeskyblue/go-sh
+# github.com/docopt/docopt-go v0.0.0-20180111231733-ee0de3bc6815
+github.com/docopt/docopt-go
+# github.com/fatih/color v1.7.0
+github.com/fatih/color
+# github.com/mattn/go-colorable v0.0.9
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.3
+github.com/mattn/go-isatty
+# github.com/sirupsen/logrus v1.0.6
+github.com/sirupsen/logrus
+# golang.org/x/crypto v0.0.0-20180723164146-c126467f60eb
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/sys v0.0.0-20180727230415-bd9dbc187b6e
+golang.org/x/sys/unix
+golang.org/x/sys/windows
